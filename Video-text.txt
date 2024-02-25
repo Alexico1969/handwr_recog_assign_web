@@ -1,0 +1,42 @@
+Hey guys, 
+
+Thank you for showing an interest for this assignment.
+Let's dive right into it.
+
+The assignment is set up in an environment called 'Google Colab'.
+Google Colab is a free, cloud-based platform that allows you to write and execute Python code through your browser.
+
+When comparing this environment to a regular editor, the main differences are:
+
+ONE - Code is organized in cells, and you can run your code one cell at a time
+TWO - Cells can be either cells with code or cells with text so you can explain your code
+
+Google Colab is particularly well-suited for machine learning, data science, and education.
+
+Before we continue, one thing is really important: You need to copy this Colab project to your own Google Drive.
+You do this by clicking 'Copy to Drive' right here.
+Once you've done that, you can close the tab with the original Project, and start working on your own copy of the project.
+
+A quick tour of the environment:
+
+1. The MAIN area with all the code and text cells is found here on the center-right of the screen
+   This is where we will do most of the work. All your code goes here in one of the cells.
+2. The FILES area, you can find on the left hand side of the screen. You might need to open it up to see all the folders 
+   and files that are available to you. When you make changes to your files or folders, you might need to refresh your
+   FILES area by clicking this button
+3. The TOP MENU holds items like: File, Edit, Insert etc. You typically don't need any of these options for this assignment, 
+   but if you want to explore this menu, go ahead.
+4. One final thing you want to notice is the 'Share' option in the top-right of the screen.
+   Once your assignment is finished, you can share your project with your teacher or anyone else using this button.
+
+To get started, you can read the first cels with the title and the description of the assignment.
+So you see you're supposed to finish the function 'predict', and possibly add some code to the already existing main code to show that your function actually works.
+
+Once you've read through all the text about the starter code and such, you can run your first code cell.
+To do that, you simply click on the PLAY button that appears when you hover over the brackets on the left side of the code cell.
+
+Now it's a matter of reading the text in the text cells, and running the code in code cells, until you are ready to add your own code.
+
+-----
+
+When your code is finished, here is what it should do:
